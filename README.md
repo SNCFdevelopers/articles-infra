@@ -1,8 +1,6 @@
 # articles-infra
 Articles scientifiques sur la topographie appliquée au réseau SNCF
 
-Pour accéder aux articles : https://dl.orangedox.com/pqe5sd0hRwdFev1NMA/articles-infra.zip
-
 Ref : 2015-MICHELIN.pdf
 <br/> Jean-Christophe Michelin (2015)
 <br/> Point Cloud Management for an Easy and Flexible Access to Data
